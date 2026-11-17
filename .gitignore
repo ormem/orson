@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.apk
+.DS_Store
+# Fetched by scripts/fetch-models.sh
+app/libs/*.aar
+app/src/main/assets/asr/
+app/src/main/assets/whisper/
+app/src/main/assets/tts/
+app/src/main/assets/kws/*.onnx
+app/src/main/assets/kws/tokens.txt
+models/
